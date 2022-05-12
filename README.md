@@ -2,7 +2,7 @@
 
 Project I'm near completing that uses React, Firebase and CSS.
 
-This project includes a sign-up and Login page, as well as users to publicly add image files (JPG, PNG).
+This project includes a sign-up and Login page, as well as users to publicly add image files (JPG, PNG) that are stored in Firebase Database.
 
 I created this project so skateboarders can share their skate photos and skateboard related art
 
